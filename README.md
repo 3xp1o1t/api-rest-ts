@@ -23,6 +23,8 @@ Instalar los paquetes para uso propio.
 		dotenv
 		multer  
 		mongoose
+    bcryptjs
+    jsonwebtoken
 ```
 Configurar el package.json
 
